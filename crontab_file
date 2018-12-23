@@ -1,0 +1,1 @@
+*/10 * * * * cd ~/data/proxy_monitoring && sh check_ip.sh
